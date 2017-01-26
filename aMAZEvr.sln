@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{28238E2C-D0EE-4E7E-CD1F-B8A9DD4E93CE}") = "aMAZEvr", "Assembly-CSharp.csproj", "{7B748001-3263-AB4C-0BF8-6EAE5299EDC7}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aMAZEvr", "Assembly-CSharp.csproj", "{7B748001-3263-AB4C-0BF8-6EAE5299EDC7}"
 EndProject
-Project("{28238E2C-D0EE-4E7E-CD1F-B8A9DD4E93CE}") = "aMAZEvr", "Assembly-CSharp-Editor.csproj", "{74DC1FB4-F60E-FA76-D560-31BE32095576}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aMAZEvr", "Assembly-CSharp-Editor.csproj", "{74DC1FB4-F60E-FA76-D560-31BE32095576}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
